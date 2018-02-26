@@ -28,14 +28,12 @@
 				<artifactId>ldf-starter-web</artifactId>
 				<version>${ldf.version}</version>
 				<type>pom</type>
-				<scope>import</scope>
 			</dependency>
 			<dependency>
 				<groupId>org.loushang</groupId>
 				<artifactId>ldf-starter-jdbc</artifactId>
 				<version>${ldf.version}</version>
 				<type>pom</type>
-				<scope>import</scope>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
