@@ -23,11 +23,7 @@
 			<artifactId>javax.servlet-api</artifactId>
 			<scope>provided</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.inspur.security</groupId>
-			<artifactId>security-sdk</artifactId>
-			<version>0.9.5</version>
-		</dependency>
+
 		<dependency>
 			<groupId>com.inspur.security</groupId>
 			<artifactId>security-keycloak-sdk</artifactId>
